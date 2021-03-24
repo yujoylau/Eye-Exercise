@@ -1,9 +1,16 @@
 # Eye-Exercise
-Description
+The Eye is built to show how the "eyeball" will move annd follow the direction of the cursor which it is pointed at.
 
 <h2> How to Run </h2>
+<li> #1 Download the files locally into your computer (ensure that they are in the same directory/folder)
+<li> #2 Open chrome browser
+<li> #3 Drag and drop the index.html file into the browser
+<li> #4 Enjoy!
+
 
 <h2> Roadmap for Future Improvements </h2>
+<li> #1 Add another eye 
+<li> #2 Show different wordings when the eye looks in different direction when moved by the cursor
 
 <h2> License Information </h2>
   
